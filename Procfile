@@ -1,1 +1,1 @@
-web: python api_tumor.py
+web: python app.py

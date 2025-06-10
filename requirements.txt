@@ -1,0 +1,6 @@
+flask
+tensorflow
+pillow
+numpy
+requests
+gunicorn==20.1.0
